@@ -1,1 +1,1 @@
-# p7_products_classification
+# p6_products_classification
